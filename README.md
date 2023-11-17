@@ -39,6 +39,6 @@ IP&4 Can detect the following information on a public IPv4:
 
 This program requires ***PIP3+*** with ***Python3.9+*** to work.
 
-Once these requirements are met, it will ***automatically install them*** once it detects missing requirements.
+
 
 
