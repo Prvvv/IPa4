@@ -1,15 +1,7 @@
 
 
-import os
-try:
-    import requests;from requests import *
-except:
-    try:
-        os.system("pip install requests")
-        import requests;from requests import *
-    except:
-        print("installation error! - python3 requests")
 
+import requests;from requests import *
 import json
 import socket
 import threading
