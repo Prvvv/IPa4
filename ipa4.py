@@ -1,6 +1,3 @@
-
-
-
 import requests;from requests import *
 import json
 import socket
@@ -140,10 +137,6 @@ try:
     print("[Web-Server]",resp["server"])
 
 except:
-    
     pass
-
-
-
-
+	
 time.sleep(10)
